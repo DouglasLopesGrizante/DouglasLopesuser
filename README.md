@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-lopes-1a724314b/)
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas&theme=vision-friendly-dark&show_icons=true)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasLpoes&theme=vision-friendly-dark&show_icons=true)
 
 ### tecnologias que uso no meu dia 
 
